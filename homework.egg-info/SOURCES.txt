@@ -4,3 +4,5 @@ homework.egg-info/SOURCES.txt
 homework.egg-info/dependency_links.txt
 homework.egg-info/requires.txt
 homework.egg-info/top_level.txt
+tests/__init__.py
+tests/test_training.py

@@ -5,4 +5,7 @@ Requires-Dist: pytest
 Requires-Dist: pandas
 Requires-Dist: scikit-learn
 Requires-Dist: ipykernel
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: numpy
 Dynamic: requires-dist

@@ -17,5 +17,6 @@ setup(
         "matplotlib",
         "seaborn",
         "numpy",
+        "xgboost"
     ],
 )

@@ -1,0 +1,43 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+
+*# Carpetas que NO deben subirse
+data/
+Data/
+datasets/
+models/
+output/
+outputs/
+logs/
+__pycache__/
+.ipynb_checkpoints/
+
+# Archivos pesados o generados automáticamente
+*.csv
+*.xlsx
+*.pkl
+*.pkl.gz
+*.json
+*.log
+
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+
+# Configuración de IDEs
+.vscode/
+.idea/
+
+# Compilados
+*.pyc
+.venv/
